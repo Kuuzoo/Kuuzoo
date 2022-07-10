@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kuuzoo!
+- 👀 I’m interested in Gaming & Coding.
+- 🌱 I’m currently learning HTML & CSS.
+- 💞️ I’m looking to work with more FiveM Servers.
+- 📫 I'm always available on Discord at Kuuzoo#1234.
