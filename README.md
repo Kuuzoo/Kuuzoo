@@ -5,15 +5,15 @@
 
 <h2>🌐 Connect with me</h2>
 <p>
-  <a href="mailto:ng@gerersdorfer.com" target="blank">
+  <a href="mailto:ng@gerersdorfer.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/kuuzoo/kuuzoo/refs/heads/main/img/mail.svg" alt="ng@gerersdorfer.com" height="30" width="40" />
   </a>
   
-  <a href="https://www.linkedin.com/in/nilsgerersdorfer/" target="blank">
+  <a href="https://www.linkedin.com/in/nilsgerersdorfer/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/kuuzoo/kuuzoo/refs/heads/main/img/linkedin.svg" alt="nilsgerersdorfer" height="30" width="40" />
   </a>
 
-  <a href="https://discord.com/users/725332583436779560" target="blank">
+  <a href="https://discord.com/users/725332583436779560" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/kuuzoo/kuuzoo/refs/heads/main/img/discord.svg" alt="725332583436779560" height="30" width="40" />
   </a>
 </p>
