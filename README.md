@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg"><img src="./assets/banner-light.svg" alt="Hi, I'm Nils – Software Engineer in Vienna. I build client websites and web apps with modern TypeScript frameworks like Vue, Nuxt and React." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg"><img src="./assets/banner-light.svg" alt="Hi, I'm Nils – Software Engineer in Vienna. I build client websites and web apps with modern TypeScript frameworks like Vue, Nuxt and Astro." width="100%"></picture>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nilsgerersdorfer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>
@@ -26,7 +26,7 @@ I've been coding every day since I was 14. For two and a half years I worked on 
 
 ### Stack
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img src="./assets/stack-light.svg" alt="Stack: Vue, Nuxt, TypeScript, Tailwind CSS, Pinia, React, Elysia, REST APIs, MySQL, WordPress, Docker, Proxmox, Windows Server, Python, Claude Code, Cursor, Figma, Linear, Git" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img src="./assets/stack-light.svg" alt="Stack: Vue, Nuxt, TypeScript, Tailwind CSS, Pinia, Astro, Elysia, REST APIs, MySQL, WordPress, Docker, Proxmox, Windows Server, Python, Claude Code, Cursor, Figma, Linear, Git" width="100%"></picture>
 
 ### Beyond code
 
