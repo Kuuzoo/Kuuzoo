@@ -1,7 +1,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg"><img src="./assets/banner-light.svg" alt="Hi, I'm Nils – Software Engineer in Vienna. I build client websites and web apps with modern TypeScript frameworks like Vue, Nuxt and Astro." width="100%"></picture>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nilsgerersdorfer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>
+  <a href="https://www.linkedin.com/in/nilsgerersdorfer" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img src="./assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>
   <!-- Portfolio button – remove the comment markers once nils.gerersdorfer.com is live
   <a href="https://nils.gerersdorfer.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg"><img src="./assets/btn-portfolio-light.svg" alt="Portfolio"></picture></a>
   -->
