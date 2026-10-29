@@ -14,7 +14,6 @@ I've been coding every day since I was 14. For two and a half years I worked on 
 ### Right now
 
 - Open to **frontend & full-stack roles** in Vienna or hybrid
-- Building my portfolio with **Nuxt 3** and TypeScript
 - Passed my final apprenticeship exam in **software development**
 
 ### Things I've built
