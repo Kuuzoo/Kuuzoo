@@ -14,7 +14,7 @@ I've been coding every day since I was 14. For two and a half years I worked on 
 ### Right now
 
 - Open to **frontend & full-stack roles** in Vienna or hybrid
-- Passed my final apprenticeship exam in **software development**
+- Passed my final apprenticeship exam in **software development** – with merit
 
 ### Things I've built
 
